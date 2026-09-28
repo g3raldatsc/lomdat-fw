@@ -1,0 +1,1 @@
+Folder Model adalah folder yang digunakan untuk menyimpan model yang sudah dibuat pada saat pengerjaan kompetisi. Misal, lightgbmv1.pkl, xgboost_final.pkl, dan lain sebagainya.
