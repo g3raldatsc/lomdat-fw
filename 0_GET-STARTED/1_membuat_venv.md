@@ -19,7 +19,7 @@ Berikut adalah tahapan untuk mengaktifkan virtual environment di terminal VSCode
 Ini adalah tahapan yang dijalankan ketika ingin menambahkan kernel jupyter untuk ngoding di ipynb.
 
 1. Pastikan sebelum melakukan ini, jupyter dan ipykernel sudah diinstall (cek 2_install_library_datsc).
-2. Pada terminal yang sudah aktif venv-nya, ketik perintah: `python -m ipykernel install --user --name=z_nama_venv --display=name "Python (z_name_venv)"`.
+2. Pada terminal yang sudah aktif venv-nya, ketik perintah: `python -m ipykernel install --user --name=z_nama_venv --display-name "Python (z_name_venv)"`.
 3. Kernel berhasil dibuat, silakan cek pada file .ipynb, lalu tekan select kernel, dan pilih kernel yang sudah dibuat tadi.
 
 # Menonaktifkan Virtual Environment
